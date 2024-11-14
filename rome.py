@@ -7,8 +7,8 @@ flame = 0
 for i in range(5):
     # Let's see if it's live
     
-    array.append(i)
-    # Blaze from the sky
+    window.append(i)
+    # Blowing from the sky
     
     flame++
     # Igniting a fuss
@@ -16,5 +16,5 @@ for i in range(5):
 # Let's see what did grow 
 print(window)  
 
-print(flame) 
 # We've lost the game
+print(flame) 
